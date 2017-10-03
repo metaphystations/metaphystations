@@ -80,7 +80,7 @@ a {
   }
 }
 
-@media screen and (min-width: 2000px) {
+@media screen and (min-width: 1250px) {
   .jumbotron {
     background-size: 100% auto;
   }
